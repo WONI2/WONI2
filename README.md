@@ -1,4 +1,5 @@
-## :mega: HELLO I'M CHAEWON
+## :mega: HELLO I'M CHAEWON with
+![typing](https://github.com/WONI2/WONI2/assets/126743165/e9333161-ccbc-4850-a758-4e6e5b61b157)
 
 
 ### :ferris_wheel: Once I've used
@@ -11,8 +12,10 @@
   <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
   </p>
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WONI2&layout=compact)](https://github.com/WONI2/github-readme-stats)  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chaewon2)](https://solved.ac/chaewon2/)
+
 
 
 
